@@ -10,7 +10,7 @@
 
 <script>
 import BookItem from './BookItem';
-import BookFrom from './BookForm';
+import BookForm from './BookForm';
 
 export default {
     name: 'BookList',
