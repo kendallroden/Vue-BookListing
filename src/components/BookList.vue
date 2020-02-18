@@ -9,13 +9,13 @@ export default {
     name: 'BookList',
     data() {
         return {
-        title: 'All Books',
+            title: 'All Books',
         }
     }    
 }
 </script>
 
-<style lang="stylus">
+<style>
 h1, h2{
     font-weight : normal
 }

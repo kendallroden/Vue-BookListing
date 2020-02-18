@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import BootList from './components/BookList';
+import BookList from './components/BookList';
 
 export default {
   name: 'app',
